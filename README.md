@@ -1,4 +1,33 @@
-essential-docs
-==============
+essential-docs guidebook
+========================
 
-Here's a sample repo w/ essential docs you might consider maintaining
+# Introduction
+
+# Context
+
+# Functional Overview
+
+# Quality Attributes
+
+# Constraints
+
+# Principles
+
+# Software Architecture
+## Containers
+## Components
+### SomeComponent
+
+# Infrastructure Architecture
+
+# Deployment
+## Software
+## Building
+## Deploying
+## Configuration
+
+# Operation and Support
+## Starting Database
+## Starting SomeComponent
+## Monitoring
+## Backups
